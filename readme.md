@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.jpg" width="100%" alt="Gotham Banner"/>
+<img src="assets/Screenshot 2026-07-22 160121.png"/>
 
 # PRAVEEN B
 
