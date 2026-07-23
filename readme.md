@@ -53,13 +53,45 @@
 </table>
 <div align="center">
 
-<img src="assets/divider.png" width="100%" alt="Divider"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 
-# 🦇 TECH ARSENAL
+<br />
 
-<img src="assets/logo.png" width="90" alt="Logo"/>
 
-### ⚡ TECHNOLOGIES & SECURITY TOOLS
+#  CYBER SECURITY TOOLKIT
+
+| CATEGORY | TOOLS |
+|-----------|-------|
+| 🔍 VULNERABILITY ASSESSMENT | NMAP • NESSUS • OPENVAS |
+| 🕵️ PENETRATION TESTING | BURP SUITE • METASPLOIT |
+| 🌐 NETWORK ANALYSIS | WIRESHARK • TCPDUMP |
+| 🐧 OPERATING SYSTEMS | KALI LINUX |
+| 💻 PROGRAMMING | PYTHON • C • SQL |
+| ☁️ CLOUD | AWS (BASICS) |
+| 🔐 VERSION CONTROL | GIT • GITHUB |
+
+<div align="center"><br />
+
+
+#  GITHUB DASHBOARD
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen-B05&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Praveen-B05&theme=transparent&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-B05&theme=github-compact"/>
+
+</div>
+
+
+<div align="center">
+
+
+###  TECHNOLOGIES & SECURITY TOOLS
 
 </div>
 <table align="center">
@@ -117,44 +149,7 @@
 </tr>
 </table>
 
-# 🛡️ CYBER SECURITY TOOLKIT
-
-| CATEGORY | TOOLS |
-|-----------|-------|
-| 🔍 VULNERABILITY ASSESSMENT | NMAP • NESSUS • OPENVAS |
-| 🕵️ PENETRATION TESTING | BURP SUITE • METASPLOIT |
-| 🌐 NETWORK ANALYSIS | WIRESHARK • TCPDUMP |
-| 🐧 OPERATING SYSTEMS | KALI LINUX • UBUNTU |
-| 💻 PROGRAMMING | PYTHON • C • SQL |
-| ☁️ CLOUD | AWS (BASICS) |
-| 🔐 VERSION CONTROL | GIT • GITHUB |
-
-<div align="center">
-
-# 📊 GITHUB DASHBOARD
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen-B05&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Praveen-B05&theme=transparent&hide_border=true"/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-B05&theme=github-compact"/>
-
 </div>
 
-
-<div align="center">
-
-
-
-</div>
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-<br />
-<img src="assets/city.jpg" width="500%" alt="Gotham Skyline"/>
+<img src="quote_banner2.png"/>
 
