@@ -21,7 +21,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="ChatGPT Image Jul 23, 2026, 12_11_58 PM.png" width="250"/>
+<img src="ChatGPT Image Jul 23, 2026, 12_11_58 PM.png" width="800"/>
 
 </td>
 
@@ -62,19 +62,8 @@
 <br />
 
 
-#  CYBER SECURITY TOOLKIT
+<img src="quote_banner2.png"/>
 
-| CATEGORY | TOOLS |
-|-----------|-------|
-| 🔍 VULNERABILITY ASSESSMENT | NMAP • NESSUS • OPENVAS |
-| 🕵️ PENETRATION TESTING | BURP SUITE • METASPLOIT |
-| 🌐 NETWORK ANALYSIS | WIRESHARK • TCPDUMP |
-| 🐧 OPERATING SYSTEMS | KALI LINUX |
-| 💻 PROGRAMMING | PYTHON • C • SQL |
-| ☁️ CLOUD | AWS (BASICS) |
-| 🔐 VERSION CONTROL | GIT • GITHUB |
-
-<div align="center"><br />
 
 
 #  GITHUB DASHBOARD
