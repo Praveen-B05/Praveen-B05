@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/Screenshot 2026-07-22 160121.png"/>
+<img src="dark_world.png" width="800"/>
 
 # PRAVEEN B
 
