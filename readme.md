@@ -62,7 +62,7 @@
 <br />
 
 
-<img src="quote_banner2.png"/>
+<img src="cyber_toolkit_table_v2.png" width="800"/>
 
 
 
