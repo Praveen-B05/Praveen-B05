@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Welcome to the Dark World</title>
+<link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@500;700&display=swap" rel="stylesheet">
+<style>
+  html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background: #1a0303;
+    overflow: hidden;
+  }
+  .stage {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+  }
+  svg {
+    display: block;
+    width: 100%;
+    height: 100%;
+  }
+  .title {
+    font-family: 'Cinzel', serif;
+    font-weight: 700;
+    letter-spacing: 4px;
+    fill: #f3ece2;
+    opacity: 0.94;
+  }
+  .signature {
+    font-family: 'Cinzel', serif;
+    font-weight: 500;
+    letter-spacing: 3px;
+    fill: #caa5a5;
+    opacity: 0.55;
+  }
+  .beam {
+    transform-origin: var(--ox) var(--oy);
+    animation: sweep var(--dur) ease-in-out infinite alternate;
+  }
+  @keyframes sweep {
+    0%   { transform: rotate(calc(var(--amp) * -1deg)); }
+    100% { transform: rotate(var(--amp) * 1deg); }
+  }
+  .beamB { animation: sweepB var(--dur) ease-in-out infinite alternate; transform-origin: var(--ox) var(--oy); }
+  @keyframes sweepB {
+    0%   { transform: rotate(-6deg); }
+    100% { transform: rotate(6deg); }
+  }
+  .win { animation: flicker 5s steps(1) infinite; }
+  .win2 { animation: flicker 4.2s steps(1) infinite reverse; }
+  .win3 { animation: flicker 6.5s steps(1) infinite; }
+  @keyframes flicker {
+    0%, 41%, 43%, 100% { opacity: 0.95; }
+    42% { opacity: 0.25; }
+  }
+  .cape {
+    transform-origin: 50% 0%;
+    animation: sway 6s ease-in-out infinite alternate;
+  }
+  @keyframes sway {
+    0%   { transform: rotate(-1.2deg); }
+    100% { transform: rotate(1.6deg); }
+  }
+  .haze {
+    animation: drift 14s ease-in-out infinite alternate;
+  }
+  @keyframes drift {
+    0%   { transform: translateX(0px); }
+    100% { transform: translateX(40px); }
+  }
+  .glowpulse {
+    animation: pulse 4s ease-in-out infinite alternate;
+  }
+  @keyframes pulse {
+    0%   { opacity: 0.55; }
+    100% { opacity: 0.9; }
+  }
+</style>
+</head>
+<body>
+<div class="stage">
+<svg viewBox="0 0 1920 1080" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Welcome to the dark world</title>
+<desc>A silhouetted city skyline under a deep red night sky, with search beams sweeping and a hooded caped figure watching from a rooftop.</desc>
+
+<defs>
+  <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#050203"/>
+    <stop offset="38%" stop-color="#2a0707"/>
+    <stop offset="70%" stop-color="#5c0f0f"/>
+    <stop offset="100%" stop-color="#8a1616"/>
+  </linearGradient>
+  <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#3d0a0a"/>
+    <stop offset="100%" stop-color="#0a0202"/>
+  </linearGradient>
+  <linearGradient id="beamGrad" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#fff7ea" stop-opacity="0.55"/>
+    <stop offset="100%" stop-color="#fff7ea" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="moonGlow" cx="50%" cy="50%" r="50%">
+    <stop offset="0%" stop-color="#ffe9c7" stop-opacity="0.9"/>
+    <stop offset="60%" stop-color="#ff8a3d" stop-opacity="0.25"/>
+    <stop offset="100%" stop-color="#ff8a3d" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="capeGrad" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#0d0d10"/>
+    <stop offset="100%" stop-color="#2a2a30"/>
+  </linearGradient>
+</defs>
+
+<rect x="0" y="0" width="1920" height="1080" fill="url(#sky)"/>
+
+<circle class="glowpulse" cx="960" cy="230" r="260" fill="url(#moonGlow)"/>
+
+<g class="haze" opacity="0.18">
+  <ellipse cx="400" cy="560" rx="500" ry="60" fill="#ffb37a"/>
+  <ellipse cx="1500" cy="600" rx="440" ry="50" fill="#ffb37a"/>
+</g>
+
+<g class="beam" style="--ox:180px; --oy:1080px; --amp:10; --dur:9s">
+  <polygon points="180,1080 40,220 320,220" fill="url(#beamGrad)"/>
+</g>
+<g class="beamB" style="--ox:960px; --oy:1080px;">
+  <polygon points="960,1080 860,180 1060,180" fill="url(#beamGrad)"/>
+</g>
+<g class="beam" style="--ox:1650px; --oy:1080px; --amp:8; --dur:11s">
+  <polygon points="1650,1080 1540,260 1780,260" fill="url(#beamGrad)"/>
+</g>
+
+<g fill="#0c0303">
+  <rect x="0" y="640" width="120" height="440" class="win"/>
+  <rect x="130" y="560" width="90" height="520" class="win2"/>
+  <rect x="230" y="700" width="70" height="380" class="win3"/>
+  <rect x="310" y="500" width="110" height="580" class="win"/>
+  <rect x="430" y="620" width="80" height="460" class="win2"/>
+  <rect x="520" y="450" width="130" height="630" class="win3"/>
+  <rect x="660" y="580" width="90" height="500" class="win"/>
+  <rect x="760" y="380" width="60" height="700" class="win2"/>
+  <rect x="830" y="640" width="100" height="440" class="win3"/>
+  <rect x="940" y="500" width="120" height="580" class="win"/>
+  <rect x="1070" y="600" width="80" height="480" class="win2"/>
+  <rect x="1160" y="440" width="100" height="640" class="win3"/>
+  <rect x="1270" y="560" width="90" height="520" class="win"/>
+  <rect x="1370" y="480" width="130" height="600" class="win2"/>
+  <rect x="1510" y="620" width="80" height="460" class="win3"/>
+  <rect x="1600" y="540" width="110" height="540" class="win"/>
+  <rect x="1720" y="640" width="90" height="440" class="win2"/>
+  <rect x="1820" y="480" width="100" height="600" class="win3"/>
+</g>
+
+<g fill="#ffb457" opacity="0.85">
+  <rect x="18" y="700" width="6" height="8"/><rect x="40" y="760" width="6" height="8"/><rect x="70" y="820" width="6" height="8"/>
+  <rect x="150" y="620" width="6" height="8"/><rect x="170" y="700" width="6" height="8"/><rect x="190" y="780" width="6" height="8"/>
+  <rect x="340" y="560" width="6" height="8"/><rect x="370" y="640" width="6" height="8"/><rect x="390" y="740" width="6" height="8"/>
+  <rect x="550" y="510" width="6" height="8"/><rect x="580" y="600" width="6" height="8"/><rect x="600" y="700" width="6" height="8"/>
+  <rect x="780" y="440" width="6" height="8"/><rect x="790" y="540" width="6" height="8"/><rect x="800" y="640" width="6" height="8"/>
+  <rect x="960" y="560" width="6" height="8"/><rect x="990" y="640" width="6" height="8"/><rect x="1010" y="740" width="6" height="8"/>
+  <rect x="1190" y="500" width="6" height="8"/><rect x="1210" y="600" width="6" height="8"/><rect x="1230" y="700" width="6" height="8"/>
+  <rect x="1400" y="540" width="6" height="8"/><rect x="1420" y="620" width="6" height="8"/><rect x="1440" y="720" width="6" height="8"/>
+  <rect x="1630" y="600" width="6" height="8"/><rect x="1650" y="680" width="6" height="8"/><rect x="1670" y="780" width="6" height="8"/>
+  <rect x="1840" y="540" width="6" height="8"/><rect x="1860" y="620" width="6" height="8"/><rect x="1880" y="720" width="6" height="8"/>
+</g>
+
+<text x="960" y="200" text-anchor="middle" class="title" font-size="72">WELCOME TO THE</text>
+<text x="960" y="285" text-anchor="middle" class="title" font-size="82">DARK WORLD</text>
+
+<rect x="1500" y="480" width="420" height="600" fill="#050202"/>
+
+<g class="cape">
+  <path d="M1660 500 C1560 560 1520 660 1540 760 C1600 700 1650 660 1700 700 C1730 640 1720 560 1660 500 Z" fill="url(#capeGrad)"/>
+</g>
+<path d="M1650 470 C1630 460 1618 440 1622 415 C1626 395 1644 382 1665 384 C1686 382 1704 395 1708 415 C1712 440 1700 460 1680 470 C1670 476 1660 476 1650 470 Z" fill="#0b0b0d"/>
+<rect x="1638" y="460" width="55" height="70" fill="#0b0b0d"/>
+
+<text x="1820" y="1040" text-anchor="end" class="signature" font-size="26">PRAVEEN</text>
+
+<rect x="0" y="960" width="1920" height="120" fill="url(#ground)"/>
+</svg>
+</div>
+</body>
+</html>
