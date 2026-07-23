@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dark_world.png.gif" width="800"/>
+<img src="dark_world.png.gif" width="700"/>
 
 # PRAVEEN B
 
@@ -21,7 +21,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="assets/profile.jpg" width="250"/>
+<img src="ChatGPT Image Jul 23, 2026, 12_11_58 PM.png" width="250"/>
 
 </td>
 
