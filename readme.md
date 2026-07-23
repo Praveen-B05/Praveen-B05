@@ -51,5 +51,110 @@
 
 </td>
 </tr>
+</table>---
+
+<div align="center">
+
+<img src="assets/divider.png" width="100%" alt="Divider"/>
+
+# 🦇 TECH ARSENAL
+
+<img src="assets/logo.png" width="90" alt="Logo"/>
+
+### ⚡ TECHNOLOGIES & SECURITY TOOLS
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br>
+<b>PYTHON</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+<b>LINUX</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
+<b>BASH</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br>
+<b>GIT</b>
+
+</td>
+
+<td align="center" width="120">
+
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GITHUB</b>
+
+</td>
+</tr>
 </table>
+
+---
+
+# 🛡️ CYBER SECURITY TOOLKIT
+
+| CATEGORY | TOOLS |
+|-----------|-------|
+| 🔍 VULNERABILITY ASSESSMENT | NMAP • NESSUS • OPENVAS |
+| 🕵️ PENETRATION TESTING | BURP SUITE • METASPLOIT |
+| 🌐 NETWORK ANALYSIS | WIRESHARK • TCPDUMP |
+| 🐧 OPERATING SYSTEMS | KALI LINUX • UBUNTU |
+| 💻 PROGRAMMING | PYTHON • C • SQL |
+| ☁️ CLOUD | AWS (BASICS) |
+| 🔐 VERSION CONTROL | GIT • GITHUB |
+
+---
+
+<div align="center">
+
+# 📊 GITHUB DASHBOARD
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen-B05&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Praveen-B05&theme=transparent&hide_border=true"/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Praveen-B05&theme=github-compact"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="assets/city.jpg" width="100%" alt="Gotham Skyline"/>
+
+## 🌃 GOTHAM CYBER DEFENSE STATUS
+
+🟢 NETWORK SECURITY — ACTIVE
+
+🟢 VAPT — ACTIVE
+
+🟢 ETHICAL HACKING — LEARNING
+
+🟢 MALWARE ANALYSIS — RESEARCH
+
+🟢 DIGITAL FORENSICS — ACTIVE
+
+🟢 PYTHON AUTOMATION — ACTIVE
+
+🟢 THREAT HUNTING — ACTIVE
+
+</div>
+
+---
 
