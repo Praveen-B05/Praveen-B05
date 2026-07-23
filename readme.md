@@ -4,9 +4,9 @@
 
 # PRAVEEN B
 
-### Cyber Security Engineering Student • Network Security • VAPT • Ethical Hacking
+### CYBER SECURITY ENGINEERING | NETWORK SECURITY | VAPT | ETHICAL HACKING
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=Network+Security;Threat+Hunter;VAPT+Specialist;Python+Security;Linux+Enthusiast;Digital+Forensics" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=900&lines=NETWORK+TRAFFIC+ANALYSIS+AND+PACKET+INSPECTION;THREAT+HUNTER;VAPT+SPECIALIST;PYTHON+PROGRAMER;LINUX+AND+WINDOWS+ENVIRONMENT+USER;DIGITAL+FORENSICS" />
 
 <br>
 
@@ -29,27 +29,27 @@
 
 # 🛡️ BATCAVE COMMAND CENTER
 
-### 👤 Profile
+### 👤 PROFILE
 
-- **Name:** Praveen B
-- **Role:** Cyber Security Engineering Student
-- **College:** Sri Shakthi Institute of Engineering and Technology
+- **NAME:** PRAVEEN B
+- **ROLE:** CYBER SECURITY ENGINEERING 
 
-### 🔐 Specialization
+### 🔐 SPECIALIZATION
 
-- Vulnerability Assessment & Penetration Testing (VAPT)
-- Network Security & Monitoring
-- Ethical Hacking
-- Malware Analysis
-- Threat Hunting
-- Digital Forensics
-- Linux Administration
-- Python Security Automation
-- Packet Analysis (Wireshark, tcpdump)
-- Security Research
-- Incident Response
-- AI in Cybersecurity
+- VULNERABILITY ASSESSMENT & PENETRATION TESTING (VAPT)
+- NETWORK SECURITY & MONITORING
+- ETHICAL HACKING
+- MALWARE ANALYSIS
+- THREAT HUNTING
+- DIGITAL FORENSICS
+- LINUX ADMINISTRATION
+- PYTHON SECURITY AUTOMATION
+- PACKET ANALYSIS (WIRESHARK, TCPDUMP)
+- SECURITY RESEARCH
+- INCIDENT RESPONSE
+- AI IN CYBERSECURITY
 
 </td>
 </tr>
 </table>
+
