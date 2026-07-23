@@ -48,11 +48,9 @@
 - SECURITY RESEARCH
 - INCIDENT RESPONSE
 - AI IN CYBERSECURITY
-
 </td>
 </tr>
-</table>---
-
+</table>
 <div align="center">
 
 <img src="assets/divider.png" width="100%" alt="Divider"/>
@@ -64,7 +62,36 @@
 ### ⚡ TECHNOLOGIES & SECURITY TOOLS
 
 </div>
+<table align="center">
+<tr>
 
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br>
+<b>C</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br>
+<b>SQL</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
+<b>LINUX</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/><br>
+<b>JENKINS</b>
+</td>
+
+<td align="center" width="120">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
+<b>GITHUB</b>
+</td>
+
+</tr>
+</table>
 <table align="center">
 <tr>
 <td align="center" width="120">
@@ -74,19 +101,8 @@
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=linux" width="50"/><br>
-<b>LINUX</b>
 
-</td>
-
-<td align="center" width="120">
-
-<img src="https://skillicons.dev/icons?i=bash" width="50"/><br>
-<b>BASH</b>
-
-</td>
 
 <td align="center" width="120">
 
@@ -95,16 +111,11 @@
 
 </td>
 
-<td align="center" width="120">
 
-<img src="https://skillicons.dev/icons?i=github" width="50"/><br>
-<b>GITHUB</b>
 
 </td>
 </tr>
 </table>
-
----
 
 # 🛡️ CYBER SECURITY TOOLKIT
 
@@ -118,8 +129,6 @@
 | ☁️ CLOUD | AWS (BASICS) |
 | 🔐 VERSION CONTROL | GIT • GITHUB |
 
----
-
 <div align="center">
 
 # 📊 GITHUB DASHBOARD
@@ -132,29 +141,20 @@
 
 </div>
 
----
 
 <div align="center">
 
-<img src="assets/city.jpg" width="100%" alt="Gotham Skyline"/>
 
-## 🌃 GOTHAM CYBER DEFENSE STATUS
-
-🟢 NETWORK SECURITY — ACTIVE
-
-🟢 VAPT — ACTIVE
-
-🟢 ETHICAL HACKING — LEARNING
-
-🟢 MALWARE ANALYSIS — RESEARCH
-
-🟢 DIGITAL FORENSICS — ACTIVE
-
-🟢 PYTHON AUTOMATION — ACTIVE
-
-🟢 THREAT HUNTING — ACTIVE
 
 </div>
+<br />
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/AdolfBharath/AdolfBharath/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+<br />
+<img src="assets/city.jpg" width="500%" alt="Gotham Skyline"/>
 
