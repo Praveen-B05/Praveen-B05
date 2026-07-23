@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="dark_world.png" width="800"/>
+<img src="dark_world.png.gif" width="800"/>
 
 # PRAVEEN B
 
