@@ -68,7 +68,6 @@
 
 #  GITHUB DASHBOARD
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Praveen-B05&show_icons=true&theme=transparent&hide_border=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Praveen-B05&theme=transparent&hide_border=true"/>
 
